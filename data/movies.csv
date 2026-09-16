@@ -1,0 +1,41 @@
+id,title,genre,director,cast,keywords,description,rating
+1,Skyward Horizon,Sci-Fi Action,Rita Kalman,"Dev Arora, Nina Wells","space travel,robot,future,exploration",A crew of astronauts must repair a damaged space station before it falls out of orbit.,7.8
+2,Neon Circuit,Sci-Fi Action,Marco Fenn,"Dev Arora, Sam Ito","robot,artificial intelligence,future,city",A rogue AI takes control of a city's machines and one engineer must shut it down in time.,7.5
+3,The Last Signal,Sci-Fi Drama,Rita Kalman,"Nina Wells, Priya Shah","space travel,isolation,survival,future",A lone astronaut receives a mysterious signal while drifting through deep space alone.,8.0
+4,Iron Orbit,Sci-Fi Action,Marco Fenn,"Sam Ito, Leo Grant","robot,space travel,war,future",Two rival space colonies build robotic armies to fight over the last fuel reserves.,7.2
+5,Quantum Drift,Sci-Fi Thriller,Alan Reyes,"Priya Shah, Leo Grant","time travel,future,mystery,physics",A physicist accidentally sends herself three days into the future and must fix her mistake.,7.9
+6,Silent Vows,Romance Drama,Elena Cruz,"Maya Patel, Arjun Rao","wedding,family,love,small town",Two childhood friends reunite at a wedding and must confront feelings they buried years ago.,7.6
+7,Monsoon Letters,Romance Drama,Elena Cruz,"Arjun Rao, Kiran Bose","letters,long distance,love,family",A soldier and his childhood sweetheart stay connected through letters during wartime.,7.7
+8,Coffee and Rain,Romance Comedy,Farah Hussain,"Maya Patel, Tom Lynch","coffee shop,city,love,friendship",A barista and a regular customer slowly fall for each other over shared cups of coffee.,7.1
+9,Second Chances,Romance Drama,Farah Hussain,"Kiran Bose, Nora Bell","divorce,family,love,second chance",A divorced couple is forced to work together again when their daughter plans her wedding.,7.3
+10,Laugh Track,Comedy,Jake Summers,"Tom Lynch, Nora Bell","stand-up comedy,friendship,city,career",A struggling comedian and his roommate try to make it big on the city's comedy circuit.,6.9
+11,Office Chaos,Comedy,Jake Summers,"Nora Bell, Leo Grant","workplace,friendship,office,career",A chaotic office team must pull off the biggest client presentation of the year.,6.8
+12,Roadtrip Rules,Comedy,Priti Nanda,"Tom Lynch, Arjun Rao","roadtrip,friendship,comedy,adventure",Three friends break every rule of their carefully planned roadtrip within the first hour.,7.0
+13,The Heist Clock,Thriller Action,Alan Reyes,"Leo Grant, Sam Ito","heist,crime,city,mystery",A team of thieves has exactly ninety minutes to break into a bank before the vault resets.,7.8
+14,Midnight Witness,Thriller,Alan Reyes,"Priya Shah, Kiran Bose","crime,mystery,city,investigation",A late-night taxi driver becomes the only witness to a crime that puts her life in danger.,7.6
+15,Cold Case File,Thriller Drama,Diana Okoro,"Nina Wells, Arjun Rao","crime,investigation,mystery,detective",A detective reopens a decade old murder case after finding one overlooked piece of evidence.,7.7
+16,Shattered Alibi,Thriller,Diana Okoro,"Kiran Bose, Nora Bell","crime,mystery,courtroom,investigation",A defense lawyer realizes her own client may be hiding the real truth about the murder.,7.4
+17,Dragon's Peak,Fantasy Adventure,Owen Blake,"Maya Patel, Dev Arora","dragons,magic,kingdom,adventure",A young blacksmith discovers she can speak to dragons and must save her kingdom from war.,8.1
+18,The Hidden Realm,Fantasy Adventure,Owen Blake,"Dev Arora, Priya Shah","magic,kingdom,quest,adventure",A group of unlikely heroes journeys through a hidden realm to recover a stolen crown.,7.9
+19,Crown of Ashes,Fantasy Drama,Owen Blake,"Nina Wells, Leo Grant","kingdom,magic,war,family",Two royal siblings must choose between family loyalty and the fate of their kingdom.,7.8
+20,Wolf and Ember,Fantasy Adventure,Sofia Hale,"Maya Patel, Kiran Bose","magic,forest,quest,creatures",A young mage teams up with a shapeshifting wolf to stop an ancient forest curse.,7.6
+21,Toy Kingdom,Animation Family,Lena Ford,"Ravi Sen, Ella Moss","toys,adventure,family,friendship",A group of toys goes on an adventure across the city to get back to their owner.,7.9
+22,Under the Sea Lights,Animation Family,Lena Ford,"Ella Moss, Ravi Sen","ocean,adventure,family,friendship",A young fish leaves the safety of the reef to explore the ocean and find new friends.,7.5
+23,Robo Buddies,Animation Family,Lena Ford,"Ravi Sen, Tom Lynch","robot,friendship,adventure,family",A lonely kid builds a small robot friend who turns out to have a mind of its own.,7.7
+24,Star Painter,Animation Family,Priti Nanda,"Ella Moss, Maya Patel","art,dreams,family,adventure",A young artist discovers her paintings can bring stars down from the night sky.,7.4
+25,Battlefield Echoes,War Drama,Diana Okoro,"Arjun Rao, Sam Ito","war,soldiers,history,family",Two brothers on opposite sides of a war must decide if loyalty matters more than blood.,8.0
+26,Trench Letters,War Drama,Elena Cruz,"Kiran Bose, Dev Arora","war,letters,history,family",A young soldier's letters home reveal the quiet courage hidden behind the horrors of war.,7.8
+27,The Long March,War Action,Owen Blake,"Sam Ito, Leo Grant","war,soldiers,survival,history",A small unit of soldiers must cross enemy territory on foot to deliver a vital message.,7.6
+28,Deep Blue Chase,Action Thriller,Marco Fenn,"Leo Grant, Nina Wells","ocean,chase,crime,adventure",A marine investigator chases smugglers across the open ocean using nothing but an old boat.,7.3
+29,Desert Pursuit,Action Thriller,Marco Fenn,"Sam Ito, Priya Shah","chase,crime,desert,survival",A getaway driver is hunted across the desert by the crew he just betrayed.,7.2
+30,City of Glass Towers,Drama,Farah Hussain,"Nora Bell, Arjun Rao","city,career,family,ambition",An ambitious architect must choose between a dream project and time with her family.,7.5
+31,The Quiet Classroom,Drama,Farah Hussain,"Kiran Bose, Maya Patel","school,teacher,family,community",A new teacher in a struggling school slowly wins over a class that has given up on itself.,7.9
+32,Startup Sprint,Comedy Drama,Priti Nanda,"Tom Lynch, Ravi Sen","startup,career,friendship,city",Three college friends race to launch their startup before their savings run out.,7.1
+33,Grandma's Recipe,Comedy Family,Priti Nanda,"Nora Bell, Ella Moss","family,food,tradition,comedy",A granddaughter tries to recreate her late grandmother's secret recipe before the family reunion.,7.4
+34,Orbit Breaker,Sci-Fi Action,Rita Kalman,"Priya Shah, Sam Ito","space travel,war,robot,future",A pilot leads a small squad of ships to break through an enemy blockade around Earth.,7.7
+35,The Glass Detective,Thriller Drama,Diana Okoro,"Nina Wells, Kiran Bose","mystery,detective,city,investigation",A detective with a photographic memory investigates a string of impossible museum thefts.,7.8
+36,Paper Boats,Drama Family,Elena Cruz,"Arjun Rao, Ella Moss","family,childhood,small town,memory",Two siblings revisit their childhood hometown and the paper boats they once raced together.,7.6
+37,Kingdom of Mirrors,Fantasy Thriller,Sofia Hale,"Dev Arora, Nora Bell","magic,mystery,kingdom,illusion",A palace guard discovers the kingdom's mirrors hide a doorway to a dangerous parallel realm.,7.7
+38,Firelight Tavern,Fantasy Comedy,Sofia Hale,"Ravi Sen, Priya Shah","magic,adventure,friendship,comedy",A clumsy apprentice wizard and a talking cat accidentally start a rebellion in a small tavern.,7.3
+39,The Final Ledger,Thriller Drama,Alan Reyes,"Leo Grant, Nora Bell","crime,investigation,finance,mystery",An auditor uncovers a hidden trail of fraud that leads straight to her own company's founder.,7.5
+40,Northern Lights Home,Romance Drama,Elena Cruz,"Kiran Bose, Tom Lynch","small town,family,love,winter",A city photographer returns to her snowy hometown and rediscovers an old childhood friendship.,7.4

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CineMatch - Movie Suggestion System</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+    <header class="navbar">
+        <h1>🎬 CineMatch</h1>
+        <p>Find a movie you like, get similar movies back</p>
+    </header>
+
+    <main class="container">
+
+        <!-- Search box -->
+        <section class="search-section">
+            <div class="search-box">
+                <input
+                    type="text"
+                    id="movieInput"
+                    placeholder="Type a movie name... e.g. Dragon's Peak"
+                    autocomplete="off"
+                >
+                <button id="searchBtn">Search</button>
+            </div>
+            <!-- Autocomplete suggestions appear here -->
+            <ul id="suggestionsList" class="suggestions-list"></ul>
+        </section>
+
+        <!-- Message area for errors / empty search -->
+        <p id="messageBox" class="message hidden"></p>
+
+        <!-- Selected movie details -->
+        <section id="movieDetails" class="movie-details hidden">
+            <h2 id="movieTitle"></h2>
+            <p class="tags">
+                <span id="movieGenre" class="badge"></span>
+                <span id="movieRating" class="badge rating"></span>
+            </p>
+            <p id="movieDirectorCast" class="meta"></p>
+            <p id="movieDescription" class="description"></p>
+        </section>
+
+        <!-- Recommendation results -->
+        <section id="resultsSection" class="results-section hidden">
+            <h3>Movies you might also like</h3>
+            <div id="resultsGrid" class="results-grid"></div>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Vityarthi College Project - Movie Suggestion System (Content-Based Filtering)</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
