@@ -1,7 +1,7 @@
-Author : Yuvraj Singh Jhala
+Author : Yuvraj Singh Jhala\n
 Registration Number : 25MIM10033
 
-VIT Bhopal University
+VIT Bhopal University\n
 Course : CSA2001 -- Fundamentals of AI and ML
 
 #  CineMatch – Movie Suggestion System
