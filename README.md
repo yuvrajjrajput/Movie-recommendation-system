@@ -1,4 +1,4 @@
-# 🎬 CineMatch – Movie Suggestion System
+#  CineMatch – Movie Suggestion System
 
 A simple web-based movie recommendation system built as a college mini-project.
 The user types or selects a movie, and the system suggests similar movies using
@@ -20,13 +20,13 @@ paid services) so that it is easy to understand, run, and explain in a viva.
 
 ## 2. Features
 
-- 🔍 Search bar with **live autocomplete** while typing a movie name
-- 🎯 Content-based recommendations using **genre + keywords + director + cast**
-- ⭐ Displays title, genre, rating, description and cast/director for the searched movie
-- 📊 Shows a similarity percentage for every recommended movie
-- ⚠️ Handles empty search and invalid/unknown movie names with clear messages
-- 💻 Clean, dark-themed, responsive UI built with plain HTML/CSS/JS (no frontend framework)
-- 🗄️ Uses a real SQLite database (not just a CSV read every time)
+-  Search bar with **live autocomplete** while typing a movie name
+-  Content-based recommendations using **genre + keywords + director + cast**
+-  Displays title, genre, rating, description and cast/director for the searched movie
+-  Shows a similarity percentage for every recommended movie
+-  Handles empty search and invalid/unknown movie names with clear messages
+-  Clean, dark-themed, responsive UI built with plain HTML/CSS/JS (no frontend framework)
+-  Uses a real SQLite database (not just a CSV read every time)
 
 ---
 
@@ -197,18 +197,7 @@ systems, just applied to a small, simple dataset.
 
 ---
 
-## 11. Screenshots
-
-> Add your own screenshots here after running the project locally.
-
-- **Home page / search box:** `screenshots/home.png`
-- **Autocomplete suggestions:** `screenshots/autocomplete.png`
-- **Movie details + recommendations:** `screenshots/recommendations.png`
-- **Invalid movie name message:** `screenshots/error.png`
-
----
-
-## 12. Notes
+## 11. Notes
 
 - This is a student mini-project built for learning purposes, not a production
   application. The Flask development server (`debug=True`) should not be used
